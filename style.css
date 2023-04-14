@@ -1,7 +1,6 @@
 :root {
 	--size: 400px;
-	/* --purple: #746d69; */
-	--purple: #a020f0;
+	/* --purple: #a020f0; */
 	--lb: rgba(0, 0, 0, 0.5);
 }
 body {
@@ -49,11 +48,11 @@ body {
 .chicoImg {
 	background-image: image-set();
 	background-image: url(https://gdurl.com/cMWR);
-	background-color: gray;
+	background-color: #fad961;
 }
 .pipocaImg {
 	background-image: url(https://gdurl.com/HUmq);
-	background-color: gray;
+	background-color: #fad961;
 }
 h4,
 ul,
