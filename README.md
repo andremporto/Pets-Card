@@ -1,2 +1,2 @@
-# Product-Card
- A product card info for multiple purposes
+# My Pets Card
+ A pet card info for multiple purposes
